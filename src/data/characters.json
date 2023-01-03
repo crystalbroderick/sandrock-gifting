@@ -1,0 +1,283 @@
+[
+  {
+    "id": 1,
+    "name": "Amirah",
+    "imgUrl": "/images/characters/Amirah.webp",
+    "love": [
+      {
+        "name": "Sandgear",
+        "points": 12,
+        "imgUrl": "/images/items/Sandgear.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Glass Lens",
+        "points": 8,
+        "imgUrl": "/images/items/Glass_Lens.webp"
+      },
+      {
+        "name": "Copper Pot",
+        "points": 7,
+        "imgUrl": "/images/items/Copper_Pot.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Arivio",
+    "imgUrl": "/images/characters/Arvio.webp",
+    "love": [
+      {
+        "name": "Retro Fan",
+        "points": 18,
+        "imgUrl": "images/items/Retro_Fan.webp"
+      }
+    ],
+    "like": [
+      { "name": "Water", "points": 5, "imgUrl": "images/items/Water.webp" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Burgess",
+    "imgUrl": "/images/characters/Burgess.webp",
+    "love": [
+      {
+        "name": "Rhino Horn Cactus",
+        "points": 15,
+        "imgUrl": "images/items/Rhino_Horn_Cactus.webp"
+      }
+    ],
+    "like": [
+      { "name": "Water", "points": 5, "imgUrl": "images/items/Water.webp" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Catori",
+    "imgUrl": "/images/characters/Catori.webp",
+    "love": [
+      {
+        "name": "Orchid Earrings",
+        "points": 17,
+        "imgUrl": "images/items/Orchid_Earrings.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Milk Steamed Eggs",
+        "points": 5,
+        "imgUrl": "images/items/Milk_Steamed_Egg.webp"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Captain",
+    "imgUrl": "/images/characters/Captain.webp",
+    "love": [
+      {
+        "name": "Animal House",
+        "points": 13,
+        "imgUrl": "images/items/Animal_House.webp"
+      },
+      {
+        "name": "Opal",
+        "points": 9,
+        "imgUrl": "images/items/Opal.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Sand Carp",
+        "points": 6,
+        "imgUrl": "images/items/Sand_Carp.webp"
+      },
+      {
+        "name": "Rib Meat",
+        "points": 6,
+        "imgUrl": "images/items/Rib_Meat.webp"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Elsie",
+    "imgUrl": "/images/characters/Elsie.webp",
+    "love": [
+      {
+        "name": "Cat House",
+        "points": 17,
+        "imgUrl": "images/items/Animal_House.webp"
+      },
+      {
+        "name": "Shiny Scorpion",
+        "points": 17,
+        "imgUrl": "images/items/Shiny_Scorpion.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Opal",
+        "points": 6,
+        "imgUrl": "images/items/Opal.webp"
+      },
+      {
+        "name": "Water",
+        "points": 5,
+        "imgUrl": "images/items/Water.webp"
+      },
+      {
+        "name": "Retro Fan",
+        "points": 9,
+        "imgUrl": "images/items/Retro_Fan.webp"
+      },
+
+      {
+        "name": "Waist Bag",
+        "points": 8,
+        "imgUrl": "images/items/Waist_Bag.webp"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ernest",
+    "imgUrl": "/images/characters/Ernest.webp",
+    "love": [
+      {
+        "name": "Hemp Carpet",
+        "points": 12,
+        "imgUrl": "images/items/Hemp_Carpet.webp"
+      },
+      {
+        "name": "Rustic Tea Table",
+        "points": 13,
+        "imgUrl": "images/items/Rustic_Tea_Table.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Tomato",
+        "points": 6,
+        "imgUrl": "images/items/Tomato.webp"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Grace",
+    "imgUrl": "/images/characters/Grace.webp",
+    "love": [
+      {
+        "name": "Frying Pan",
+        "points": 16,
+        "imgUrl": "images/items/Frying_Pan.webp"
+      },
+      {
+        "name": "Copper Pot",
+        "points": 15,
+        "imgUrl": "images/items/Copper_Pot.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Soup_Pot",
+        "points": 7,
+        "imgUrl": "images/items/Soup_Pot.webp"
+      },
+      {
+        "name": "Water",
+        "points": 6,
+        "imgUrl": "images/items/Water.webp"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Heidi",
+    "imgUrl": "/images/characters/Heidi.webp",
+    "love": [
+      {
+        "name": "Chromium Bar",
+        "points": 18,
+        "imgUrl": "images/items/Chromium_Steel_Bar.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Manganese Bar",
+        "points": 7,
+        "imgUrl": "images/items/Manganese_Steel_Bar.webp"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Justice",
+    "imgUrl": "/images/characters/Justice.webp",
+    "love": [
+      {
+        "name": "Arm Stretcher",
+        "points": 17,
+        "imgUrl": "images/items/Arm_Stretcher.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Water",
+        "points": 5,
+        "imgUrl": "images/items/Water.webp"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mi-an",
+    "imgUrl": "/images/characters/Mi-an.webp",
+    "love": [
+      {
+        "name": "Chromium Bar",
+        "points": 11,
+        "imgUrl": "images/items/Chromium_Steel_Bar.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Sandgear",
+        "points": 8,
+        "imgUrl": "/images/items/Sandgear.webp"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Nemo",
+    "imgUrl": "/images/characters/Nemo.webp",
+    "love": [
+      {
+        "name": "Sweet&Sour Pork",
+        "points": 9,
+        "imgUrl": "images/items/Sweet_and_Sour_Pork.webp"
+      },
+      {
+        "name": "Camping Den",
+        "points": 15,
+        "imgUrl": "images/items/Camping_Den.webp"
+      }
+    ],
+    "like": [
+      {
+        "name": "Rib Meat",
+        "points": 6,
+        "imgUrl": "images/items/Rib_Meat.webp"
+      },
+      {
+        "name": "Jerky",
+        "points": 6,
+        "imgUrl": "images/items/Jerky.webp"
+      }
+    ]
+  }
+]
